@@ -37,5 +37,8 @@
 
 <h4>백준 알고리즘 이론 정리 - 2</h4>
 <ul>
-	<li> 1️⃣ scanner.next()랑 scanner.nextLine() 차이 </li>
+	<li> 1️⃣ scanner.next()랑 scanner.nextLine() 차이 <br>
+	next()는 문자 혹은 문자열을 공백 기준으로 한 단어 또는 한 문자씩 입력 받는다. ex) Hello world -> Hello
+	nextLine()의 경우에는 문자 혹은 엔터를 치기 전까지의 문장 전체를 입력받는다. ex) Hello world - > Hello world
+	</li>
 </ul>
